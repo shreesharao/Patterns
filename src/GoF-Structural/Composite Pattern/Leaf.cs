@@ -18,7 +18,7 @@ namespace Composite_Pattern
 
         public void Display(int indent)
         {
-            Console.WriteLine(Name);
+            Console.WriteLine(new String('-', indent) + "+ " + Name);
         }
 
         public void Remove(IComponent component)
