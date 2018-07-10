@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge Pattern", "src\GoF-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite Pattern", "src\GoF-Structural\Composite Pattern\Composite Pattern.csproj", "{96943F8B-8CD4-4713-BC81-782C42E2706B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator Pattern", "src\GoF-Structural\Decorator Pattern\Decorator Pattern.csproj", "{71E6CB0B-E25C-4D2F-AE1C-352328A6FBBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{96943F8B-8CD4-4713-BC81-782C42E2706B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96943F8B-8CD4-4713-BC81-782C42E2706B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96943F8B-8CD4-4713-BC81-782C42E2706B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E6CB0B-E25C-4D2F-AE1C-352328A6FBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E6CB0B-E25C-4D2F-AE1C-352328A6FBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E6CB0B-E25C-4D2F-AE1C-352328A6FBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E6CB0B-E25C-4D2F-AE1C-352328A6FBBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{122FD946-2812-424E-8129-0B643470D734} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
 		{9844A9AA-7C33-4CD6-BA45-912F8D846AD0} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
 		{96943F8B-8CD4-4713-BC81-782C42E2706B} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
+		{71E6CB0B-E25C-4D2F-AE1C-352328A6FBBA} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD99E721-64C2-4FA6-8666-4E714401AE7B}
