@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight Pattern", "src\Go
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy Pattern", "src\GoF-Structural\Proxy Pattern\Proxy Pattern.csproj", "{66B370E0-C745-4400-9DD2-D01BADA94A3B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GoF-Behavioral", "GoF-Behavioral", "{F225A6D1-A9A6-476E-8907-BE8B37C2FAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of responsibility Pattern", "src\GoF-Behavioral\Chain of responsibility Pattern\Chain of responsibility Pattern.csproj", "{23358968-CC00-4675-A1C0-51C64FA17200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +95,10 @@ Global
 		{66B370E0-C745-4400-9DD2-D01BADA94A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B370E0-C745-4400-9DD2-D01BADA94A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B370E0-C745-4400-9DD2-D01BADA94A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23358968-CC00-4675-A1C0-51C64FA17200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23358968-CC00-4675-A1C0-51C64FA17200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23358968-CC00-4675-A1C0-51C64FA17200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23358968-CC00-4675-A1C0-51C64FA17200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +117,7 @@ Global
 		{3C0F9CD6-8441-4A98-A198-F27E6DC32B9C} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
 		{68639933-3E29-44B7-8AF6-6ED489FF7DF5} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
 		{66B370E0-C745-4400-9DD2-D01BADA94A3B} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
+		{23358968-CC00-4675-A1C0-51C64FA17200} = {F225A6D1-A9A6-476E-8907-BE8B37C2FAF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD99E721-64C2-4FA6-8666-4E714401AE7B}
