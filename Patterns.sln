@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of responsibility Pat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Pattern", "src\GoF-Behavioral\Command Pattern\Command Pattern.csproj", "{E3A3FAD9-BE35-4A0C-9922-D474A0723273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter Pattern", "src\GoF-Behavioral\Interpreter Pattern\Interpreter Pattern.csproj", "{4D71AD43-E1BB-4C03-8554-CF0B8AE89FC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{E3A3FAD9-BE35-4A0C-9922-D474A0723273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3A3FAD9-BE35-4A0C-9922-D474A0723273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3A3FAD9-BE35-4A0C-9922-D474A0723273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D71AD43-E1BB-4C03-8554-CF0B8AE89FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D71AD43-E1BB-4C03-8554-CF0B8AE89FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D71AD43-E1BB-4C03-8554-CF0B8AE89FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D71AD43-E1BB-4C03-8554-CF0B8AE89FC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{66B370E0-C745-4400-9DD2-D01BADA94A3B} = {FFDC4E6C-2608-4D33-B8E2-20CFD628DEAA}
 		{23358968-CC00-4675-A1C0-51C64FA17200} = {F225A6D1-A9A6-476E-8907-BE8B37C2FAF7}
 		{E3A3FAD9-BE35-4A0C-9922-D474A0723273} = {F225A6D1-A9A6-476E-8907-BE8B37C2FAF7}
+		{4D71AD43-E1BB-4C03-8554-CF0B8AE89FC3} = {F225A6D1-A9A6-476E-8907-BE8B37C2FAF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD99E721-64C2-4FA6-8666-4E714401AE7B}
